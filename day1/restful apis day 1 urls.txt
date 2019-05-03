@@ -1,0 +1,2 @@
+http://localhost:8084/HelloWorldRestApi/rest/calculator/add?firstNumber=2&secondNumber=3
+http://localhost:8084/HelloWorldRestApi/rest/hello/helloWorld
